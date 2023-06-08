@@ -20,3 +20,8 @@ Then look for the file :
 - /src/main/resources/accountsdb
 - accountsdb.sql file is a mysql dump file.we have to import this dump to mysql db server
 - > mysql -u <user_name> -p accounts < accountsdb.sql
+
+## Login ID and Password
+Here, the login ID and Password are as follow:-
+- User:- admin_vp
+- Password:- admin_vp
